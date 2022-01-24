@@ -27,7 +27,6 @@ experience. Free from all but basic functionalities. It is meant to provide a be
     - HTML
     - CSS
 - provides 10 themes
-- has a code snippet function which captures the screenshot of the code (right now it captures the whole window but its being resolved)
 
 ### Features (I want to add & am working on)
 - more themes 
