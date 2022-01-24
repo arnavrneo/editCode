@@ -36,4 +36,3 @@ experience. Free from all but basic functionalities. It is meant to provide a be
 - resolve the code snippet so as to snap a particular region of code editor
 - and other ideas that come in my mind :)
 
-### Executables are also available (experimental). They are wrapped using `nw.js`.
