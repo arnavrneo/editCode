@@ -5,6 +5,8 @@ Made using <br><br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?st
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and CodeMirror
 
 Experience at: https://edtcode.netlify.app/
+<br>
+<img src='image.png'>
 ---
 
 #### editCode is a code editor which provides you with a beautiful code editing experience by removing all the bloated functionalities. 
